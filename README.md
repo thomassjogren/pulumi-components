@@ -1,3 +1,3 @@
 # pulumi-components
 
-Just testing out Pulumi with AWS.
+Doing some tests with reusable Pulumi components.
